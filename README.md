@@ -1,6 +1,8 @@
 # Mindmap Tree
 一个基于Raphael.js图形库实现的思维导图
 
+该分支为旧版本，新版本请点击[这里](https://github.com/RockyRen/mindmaptree/tree/master)查看
+
 ## 相关技术点
 * 使用RequireJS作模块管理
 * 图形绘制使用Raphael.js
