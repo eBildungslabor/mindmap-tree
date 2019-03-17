@@ -171,7 +171,7 @@ export default class Graph {
             y: 200,
             id: 0,
             isRootNode: true});
-        root.label = '中心主题';
+        root.label = 'Zentraler Begriff';
 
         this.gRenderer.rootNodeRender(root);
 
