@@ -32,7 +32,7 @@ export default class Node {
         this.connectChildren = {};
 
         //节点的文本
-        this.label = attr.label || "任务" + this.id;
+        this.label = attr.label || "Neues Element" + this.id;
 
         //节点的图形,其类型为Raphael的element或set对象
         this.shape = null;
