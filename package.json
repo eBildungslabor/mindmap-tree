@@ -11,16 +11,5 @@
     "type": "git",
     "url": "git+https://github.com/RockyRen/mindmaptree.git"
   },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/RockyRen/mindmaptree/issues"
-  },
-  "homepage": "https://github.com/RockyRen/mindmaptree#readme",
-  "devDependencies": {
-    "jquery": "^3.3.1",
-    "less": "^3.0.4",
-    "parcel-bundler": "^1.8.1",
-    "raphael": "^2.2.7"
-  }
+  
 }
